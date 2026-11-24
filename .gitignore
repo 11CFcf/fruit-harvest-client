@@ -1,0 +1,8 @@
+# CMake / Qt Creator build and local IDE state
+build/
+out/
+.qtcreator/
+*.user
+*.user.*
+CMakeUserPresets.json
+.vs/
